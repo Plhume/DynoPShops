@@ -1,0 +1,11 @@
+name: DynoPShops
+version: '1.0-SNAPSHOT'
+main: fr.plhume.dynoPShops.DynoPShops
+api-version: '1.21'
+authors: [ Plhume ]
+description: Plugin for player shops
+
+commands:
+  pshops:
+    description: Main command for player shops
+    aliases: [ pshop, pshops, ps ]
